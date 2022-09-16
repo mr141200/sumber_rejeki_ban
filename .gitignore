@@ -2,7 +2,11 @@
 node_modules/
 npm-debug.log
 yarn-error.log
+<<<<<<< HEAD
 gi
+=======
+
+>>>>>>> 935143954454d93d8b74a346cf91146bd5ddc43b
 # Laravel 4 specific
 bootstrap/compiled.php
 app/storage/
